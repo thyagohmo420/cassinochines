@@ -1,0 +1,318 @@
+{
+  "assets/images/cassino-small.png": {
+    "file": "assets/cassino-small-3b2680a4.png",
+    "src": "assets/images/cassino-small.png"
+  },
+  "assets/images/cassino.png": {
+    "file": "assets/cassino-527189c0.png",
+    "src": "assets/images/cassino.png"
+  },
+  "assets/images/sport-small.png": {
+    "file": "assets/sport-small-5e566ee2.png",
+    "src": "assets/images/sport-small.png"
+  },
+  "assets/images/sport.png": {
+    "file": "assets/sport-a0e04fbf.png",
+    "src": "assets/images/sport.png"
+  },
+  "lang/en.json": {
+    "file": "assets/en-689817bf.js",
+    "isDynamicEntry": true,
+    "src": "lang/en.json"
+  },
+  "lang/es.json": {
+    "file": "assets/es-716700b2.js",
+    "isDynamicEntry": true,
+    "src": "lang/es.json"
+  },
+  "lang/php_en.json": {
+    "file": "assets/php_en-e372bb40.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_en.json"
+  },
+  "lang/php_es.json": {
+    "file": "assets/php_es-047a2e64.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_es.json"
+  },
+  "lang/php_pt_BR.json": {
+    "file": "assets/php_pt_BR-7b39052f.js",
+    "isDynamicEntry": true,
+    "src": "lang/php_pt_BR.json"
+  },
+  "lang/pt_BR.json": {
+    "file": "assets/pt_BR-5805b032.js",
+    "isDynamicEntry": true,
+    "src": "lang/pt_BR.json"
+  },
+  "public/assets/images/Button - Close.svg": {
+    "file": "assets/Button - Close-9d30fb92.svg",
+    "src": "public/assets/images/Button - Close.svg"
+  },
+  "public/assets/images/Group 1000001706.svg": {
+    "file": "assets/Group 1000001706-6b98e87b.svg",
+    "src": "public/assets/images/Group 1000001706.svg"
+  },
+  "public/assets/images/Group 1000001721 (1).svg": {
+    "file": "assets/Group 1000001721-725aa78e.svg",
+    "src": "public/assets/images/Group 1000001721 (1).svg"
+  },
+  "public/assets/images/Group 1000001721.svg": {
+    "file": "assets/Group 1000001721-725aa78e.svg",
+    "src": "public/assets/images/Group 1000001721 (1).svg"
+  },
+  "public/assets/images/Group 1000001728.svg": {
+    "file": "assets/Group 1000001728-a3c98a6d.svg",
+    "src": "public/assets/images/Group 1000001728.svg"
+  },
+  "public/assets/images/Modo_de_isolamento.svg": {
+    "file": "assets/Modo_de_isolamento-307f4d79.svg",
+    "src": "public/assets/images/Modo_de_isolamento.svg"
+  },
+  "public/assets/images/Polygon 1.svg": {
+    "file": "assets/Polygon 1-76f3f4c4.svg",
+    "src": "public/assets/images/Polygon 1.svg"
+  },
+  "public/assets/images/SVG(12) (3).svg": {
+    "file": "assets/SVG(12) (3)-3816f4dd.svg",
+    "src": "public/assets/images/SVG(12) (3).svg"
+  },
+  "public/assets/images/SVG(12) (4).svg": {
+    "file": "assets/SVG(12) (4)-9634db9d.svg",
+    "src": "public/assets/images/SVG(12) (4).svg"
+  },
+  "public/assets/images/SVG.svg": {
+    "file": "assets/SVG-d05ab8a6.svg",
+    "src": "public/assets/images/SVG.svg"
+  },
+  "public/assets/images/Union 199.svg": {
+    "file": "assets/Union 199-53614f1f.svg",
+    "src": "public/assets/images/Union 199.svg"
+  },
+  "public/assets/images/carteira (1) 2.svg": {
+    "file": "assets/carteira (1) 2-425d077f.svg",
+    "src": "public/assets/images/carteira (1) 2.svg"
+  },
+  "public/assets/images/carteira (2) 1.svg": {
+    "file": "assets/carteira (2) 1-4ab227e2.svg",
+    "src": "public/assets/images/carteira (2) 1.svg"
+  },
+  "public/assets/images/categorias/fire.png": {
+    "file": "assets/fire-09dbe2ca.png",
+    "src": "public/assets/images/categorias/fire.png"
+  },
+  "public/assets/images/categorias/game.svg": {
+    "file": "assets/game-382ab7b7.svg",
+    "src": "public/assets/images/categorias/game.svg"
+  },
+  "public/assets/images/categorias/recent.svg": {
+    "file": "assets/recent-a3d6a57b.svg",
+    "src": "public/assets/images/categorias/recent.svg"
+  },
+  "public/assets/images/categorias/shark.svg": {
+    "file": "assets/shark-9114fd22.svg",
+    "src": "public/assets/images/categorias/shark.svg"
+  },
+  "public/assets/images/categorias/slots.svg": {
+    "file": "assets/slots-6cd234c3.svg",
+    "src": "public/assets/images/categorias/slots.svg"
+  },
+  "public/assets/images/chamine-de-casa 1.svg": {
+    "file": "assets/chamine-de-casa 1-07ee287d.svg",
+    "src": "public/assets/images/chamine-de-casa 1.svg"
+  },
+  "public/assets/images/circulo-usd 1.svg": {
+    "file": "assets/circulo-usd 1-8ea78e7e.svg",
+    "src": "public/assets/images/circulo-usd 1.svg"
+  },
+  "public/assets/images/description/1779932037919752194.png.png": {
+    "file": "assets/1779932037919752194.png-83678b1b.png",
+    "src": "public/assets/images/description/1779932037919752194.png.png"
+  },
+  "public/assets/images/description/1779932106484039682.png.png": {
+    "file": "assets/1779932106484039682.png-e24cd0e1.png",
+    "src": "public/assets/images/description/1779932106484039682.png.png"
+  },
+  "public/assets/images/description/1779932191280857089.png.png": {
+    "file": "assets/1779932191280857089.png-c3cf0f55.png",
+    "src": "public/assets/images/description/1779932191280857089.png.png"
+  },
+  "public/assets/images/description/1779932269934088193.png.png": {
+    "file": "assets/1779932269934088193.png-c88df369.png",
+    "src": "public/assets/images/description/1779932269934088193.png.png"
+  },
+  "public/assets/images/description/18plus.png.png": {
+    "file": "assets/18plus.png-b62a9b3a.png",
+    "src": "public/assets/images/description/18plus.png.png"
+  },
+  "public/assets/images/description/img_facebook.png.png": {
+    "file": "assets/img_facebook.png-a0b073c7.png",
+    "src": "public/assets/images/description/img_facebook.png.png"
+  },
+  "public/assets/images/description/img_line.png.png": {
+    "file": "assets/img_line.png-772e1c33.png",
+    "src": "public/assets/images/description/img_line.png.png"
+  },
+  "public/assets/images/description/img_tg.png.png": {
+    "file": "assets/img_tg.png-1baf960d.png",
+    "src": "public/assets/images/description/img_tg.png.png"
+  },
+  "public/assets/images/description/img_wa.png.png": {
+    "file": "assets/img_wa.png-ee66132a.png",
+    "src": "public/assets/images/description/img_wa.png.png"
+  },
+  "public/assets/images/do-utilizador (1) 1.svg": {
+    "file": "assets/do-utilizador (1) 1-9e9a60b2.svg",
+    "src": "public/assets/images/do-utilizador (1) 1.svg"
+  },
+  "public/assets/images/do-utilizador (2) 1.svg": {
+    "file": "assets/do-utilizador (2) 1-6a40b146.svg",
+    "src": "public/assets/images/do-utilizador (2) 1.svg"
+  },
+  "public/assets/images/float/roda.gif": {
+    "file": "assets/roda-845183a3.gif",
+    "src": "public/assets/images/float/roda.gif"
+  },
+  "public/assets/images/float/telegram.gif": {
+    "file": "assets/telegram-30a7ae67.gif",
+    "src": "public/assets/images/float/telegram.gif"
+  },
+  "public/assets/images/footer/1779971422221967361.png.png": {
+    "file": "assets/1779971422221967361.png-46d13321.png",
+    "src": "public/assets/images/footer/1779971422221967361.png.png"
+  },
+  "public/assets/images/footer/1779971433311612930.png.png": {
+    "file": "assets/1779971433311612930.png-f066ac2f.png",
+    "src": "public/assets/images/footer/1779971433311612930.png.png"
+  },
+  "public/assets/images/footer/1779971530233589762.png.png": {
+    "file": "assets/1779971530233589762.png-e8109f91.png",
+    "src": "public/assets/images/footer/1779971530233589762.png.png"
+  },
+  "public/assets/images/footer/1779971546486382594.png.png": {
+    "file": "assets/1779971546486382594.png-9062fcc3.png",
+    "src": "public/assets/images/footer/1779971546486382594.png.png"
+  },
+  "public/assets/images/footer/1779971556100300802.png.png": {
+    "file": "assets/1779971556100300802.png-da6c4ee6.png",
+    "src": "public/assets/images/footer/1779971556100300802.png.png"
+  },
+  "public/assets/images/footer/1779972180874366977.png.png": {
+    "file": "assets/1779972180874366977.png-b285b29b.png",
+    "src": "public/assets/images/footer/1779972180874366977.png.png"
+  },
+  "public/assets/images/footer/1779972487553486850.png.png": {
+    "file": "assets/1779972487553486850.png-f7dd0f2a.png",
+    "src": "public/assets/images/footer/1779972487553486850.png.png"
+  },
+  "public/assets/images/footer/1782505714194030593.png.png": {
+    "file": "assets/1782505714194030593.png-88189797.png",
+    "src": "public/assets/images/footer/1782505714194030593.png.png"
+  },
+  "public/assets/images/footer/1782505864610160641.png.png": {
+    "file": "assets/1782505864610160641.png-a91ce746.png",
+    "src": "public/assets/images/footer/1782505864610160641.png.png"
+  },
+  "public/assets/images/footer/1783201630992846849.png.png": {
+    "file": "assets/1783201630992846849.png-ec1f84bf.png",
+    "src": "public/assets/images/footer/1783201630992846849.png.png"
+  },
+  "public/assets/images/icons/wallet-money.svg": {
+    "file": "assets/wallet-money-ce792697.svg",
+    "src": "public/assets/images/icons/wallet-money.svg"
+  },
+  "public/assets/images/icons/withdraw.svg": {
+    "file": "assets/withdraw-b0956526.svg",
+    "src": "public/assets/images/icons/withdraw.svg"
+  },
+  "public/assets/images/money.svg": {
+    "file": "assets/money-1ea48c20.svg",
+    "src": "public/assets/images/money.svg"
+  },
+  "public/assets/images/pessoas-setas-esquerda-direita 1.svg": {
+    "file": "assets/pessoas-setas-esquerda-direita 1-cc9dacc2.svg",
+    "src": "public/assets/images/pessoas-setas-esquerda-direita 1.svg"
+  },
+  "public/assets/images/volume 1.svg": {
+    "file": "assets/volume 1-ccfd0f0c.svg",
+    "src": "public/assets/images/volume 1.svg"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-9394898f.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.css": {
+    "file": "assets/app-bb10e7a3.css",
+    "src": "resources/js/app.css"
+  },
+  "resources/js/app.js": {
+    "assets": [
+      "assets/Group 1000001706-6b98e87b.svg",
+      "assets/Polygon 1-76f3f4c4.svg",
+      "assets/SVG-d05ab8a6.svg",
+      "assets/pessoas-setas-esquerda-direita 1-cc9dacc2.svg",
+      "assets/Group 1000001721-725aa78e.svg",
+      "assets/carteira (1) 2-425d077f.svg",
+      "assets/do-utilizador (2) 1-6a40b146.svg",
+      "assets/SVG(12) (4)-9634db9d.svg",
+      "assets/SVG(12) (3)-3816f4dd.svg",
+      "assets/Union 199-53614f1f.svg",
+      "assets/img_facebook.png-a0b073c7.png",
+      "assets/img_tg.png-1baf960d.png",
+      "assets/img_wa.png-ee66132a.png",
+      "assets/1779932106484039682.png-e24cd0e1.png",
+      "assets/1779932037919752194.png-83678b1b.png",
+      "assets/1779932191280857089.png-c3cf0f55.png",
+      "assets/1779932269934088193.png-c88df369.png",
+      "assets/img_line.png-772e1c33.png",
+      "assets/18plus.png-b62a9b3a.png",
+      "assets/1779971422221967361.png-46d13321.png",
+      "assets/1779971433311612930.png-f066ac2f.png",
+      "assets/1779971530233589762.png-e8109f91.png",
+      "assets/1779971546486382594.png-9062fcc3.png",
+      "assets/1779971556100300802.png-da6c4ee6.png",
+      "assets/1779972180874366977.png-b285b29b.png",
+      "assets/1779972487553486850.png-f7dd0f2a.png",
+      "assets/1782505714194030593.png-88189797.png",
+      "assets/1782505864610160641.png-a91ce746.png",
+      "assets/1783201630992846849.png-ec1f84bf.png",
+      "assets/Button - Close-9d30fb92.svg",
+      "assets/telegram-30a7ae67.gif",
+      "assets/roda-845183a3.gif",
+      "assets/chamine-de-casa 1-07ee287d.svg",
+      "assets/circulo-usd 1-8ea78e7e.svg",
+      "assets/do-utilizador (1) 1-9e9a60b2.svg",
+      "assets/carteira (2) 1-4ab227e2.svg",
+      "assets/volume 1-ccfd0f0c.svg",
+      "assets/fire-09dbe2ca.png",
+      "assets/slots-6cd234c3.svg",
+      "assets/game-382ab7b7.svg",
+      "assets/shark-9114fd22.svg",
+      "assets/recent-a3d6a57b.svg",
+      "assets/wallet-money-ce792697.svg",
+      "assets/withdraw-b0956526.svg",
+      "assets/money-1ea48c20.svg",
+      "assets/Group 1000001728-a3c98a6d.svg",
+      "assets/cassino-527189c0.png",
+      "assets/cassino-small-3b2680a4.png",
+      "assets/sport-a0e04fbf.png",
+      "assets/sport-small-5e566ee2.png",
+      "assets/Modo_de_isolamento-307f4d79.svg"
+    ],
+    "css": [
+      "assets/app-bb10e7a3.css"
+    ],
+    "dynamicImports": [
+      "lang/en.json",
+      "lang/es.json",
+      "lang/php_en.json",
+      "lang/php_es.json",
+      "lang/php_pt_BR.json",
+      "lang/pt_BR.json"
+    ],
+    "file": "assets/app-46275c1f.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
