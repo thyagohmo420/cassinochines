@@ -12,8 +12,8 @@ RUN apt-get update && apt-get install -y \
     unzip \
     libicu-dev \
     zlib1g-dev \
-    libzip-dev \          # Adicionado para suporte à extensão zip
-    && docker-php-ext-configure zip \  # Configura explicitamente a extensão zip
+    libzip-dev \
+    && docker-php-ext-configure zip \
     && docker-php-ext-install \
     pdo \
     pdo_mysql \
