@@ -1,4 +1,4 @@
-echo "FROM php:8.2-apache
+FROM php:8.2-apache
 
 WORKDIR /var/www/html
 
@@ -24,4 +24,4 @@ RUN chmod -R 775 /var/www/html/storage
 COPY .docker/apache.conf /etc/apache2/sites-available/000-default.conf
 RUN a2enmod rewrite
 
-CMD ["apache2-foreground"]" > Dockerfile
+CMD ["apache2-foreground"]
