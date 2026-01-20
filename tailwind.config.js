@@ -1,6 +1,7 @@
 /** @type {import('tailwindcss').Config} */
-// eslint-disable-next-line no-undef
-module.exports = {
+import flowbitePlugin from 'flowbite/plugin';
+
+export default {
     content: [
         "./resources/**/*.blade.php",
         "./resources/**/*.js",
@@ -61,7 +62,7 @@ module.exports = {
         },
     },
     plugins: [
-        require('flowbite/plugin')
+        flowbitePlugin
     ],
-}
+};
 
